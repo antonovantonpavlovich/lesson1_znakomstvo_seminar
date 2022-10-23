@@ -1,0 +1,15 @@
+/Users/anton/Desktop/Разработчик/Знакомство с языками программирования (семинары)/Урок 1. Знакомство с языком программирования С#/lessonC#/dni/obj/Debug/net6.0/dni.csproj.AssemblyReference.cache
+/Users/anton/Desktop/Разработчик/Знакомство с языками программирования (семинары)/Урок 1. Знакомство с языком программирования С#/lessonC#/dni/obj/Debug/net6.0/dni.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anton/Desktop/Разработчик/Знакомство с языками программирования (семинары)/Урок 1. Знакомство с языком программирования С#/lessonC#/dni/obj/Debug/net6.0/dni.AssemblyInfoInputs.cache
+/Users/anton/Desktop/Разработчик/Знакомство с языками программирования (семинары)/Урок 1. Знакомство с языком программирования С#/lessonC#/dni/obj/Debug/net6.0/dni.AssemblyInfo.cs
+/Users/anton/Desktop/Разработчик/Знакомство с языками программирования (семинары)/Урок 1. Знакомство с языком программирования С#/lessonC#/dni/obj/Debug/net6.0/dni.csproj.CoreCompileInputs.cache
+/Users/anton/Desktop/Разработчик/Знакомство с языками программирования (семинары)/Урок 1. Знакомство с языком программирования С#/lessonC#/dni/bin/Debug/net6.0/dni
+/Users/anton/Desktop/Разработчик/Знакомство с языками программирования (семинары)/Урок 1. Знакомство с языком программирования С#/lessonC#/dni/bin/Debug/net6.0/dni.deps.json
+/Users/anton/Desktop/Разработчик/Знакомство с языками программирования (семинары)/Урок 1. Знакомство с языком программирования С#/lessonC#/dni/bin/Debug/net6.0/dni.runtimeconfig.json
+/Users/anton/Desktop/Разработчик/Знакомство с языками программирования (семинары)/Урок 1. Знакомство с языком программирования С#/lessonC#/dni/bin/Debug/net6.0/dni.dll
+/Users/anton/Desktop/Разработчик/Знакомство с языками программирования (семинары)/Урок 1. Знакомство с языком программирования С#/lessonC#/dni/bin/Debug/net6.0/dni.pdb
+/Users/anton/Desktop/Разработчик/Знакомство с языками программирования (семинары)/Урок 1. Знакомство с языком программирования С#/lessonC#/dni/obj/Debug/net6.0/dni.dll
+/Users/anton/Desktop/Разработчик/Знакомство с языками программирования (семинары)/Урок 1. Знакомство с языком программирования С#/lessonC#/dni/obj/Debug/net6.0/refint/dni.dll
+/Users/anton/Desktop/Разработчик/Знакомство с языками программирования (семинары)/Урок 1. Знакомство с языком программирования С#/lessonC#/dni/obj/Debug/net6.0/dni.pdb
+/Users/anton/Desktop/Разработчик/Знакомство с языками программирования (семинары)/Урок 1. Знакомство с языком программирования С#/lessonC#/dni/obj/Debug/net6.0/dni.genruntimeconfig.cache
+/Users/anton/Desktop/Разработчик/Знакомство с языками программирования (семинары)/Урок 1. Знакомство с языком программирования С#/lessonC#/dni/obj/Debug/net6.0/ref/dni.dll

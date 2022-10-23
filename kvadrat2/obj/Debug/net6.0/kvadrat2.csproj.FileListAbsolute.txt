@@ -1,0 +1,15 @@
+/Users/anton/Desktop/Разработчик/Знакомство с языками программирования (семинары)/Урок 1. Знакомство с языком программирования С#/lessonC#/kvadrat2/bin/Debug/net6.0/kvadrat2
+/Users/anton/Desktop/Разработчик/Знакомство с языками программирования (семинары)/Урок 1. Знакомство с языком программирования С#/lessonC#/kvadrat2/bin/Debug/net6.0/kvadrat2.deps.json
+/Users/anton/Desktop/Разработчик/Знакомство с языками программирования (семинары)/Урок 1. Знакомство с языком программирования С#/lessonC#/kvadrat2/bin/Debug/net6.0/kvadrat2.runtimeconfig.json
+/Users/anton/Desktop/Разработчик/Знакомство с языками программирования (семинары)/Урок 1. Знакомство с языком программирования С#/lessonC#/kvadrat2/bin/Debug/net6.0/kvadrat2.dll
+/Users/anton/Desktop/Разработчик/Знакомство с языками программирования (семинары)/Урок 1. Знакомство с языком программирования С#/lessonC#/kvadrat2/bin/Debug/net6.0/kvadrat2.pdb
+/Users/anton/Desktop/Разработчик/Знакомство с языками программирования (семинары)/Урок 1. Знакомство с языком программирования С#/lessonC#/kvadrat2/obj/Debug/net6.0/kvadrat2.csproj.AssemblyReference.cache
+/Users/anton/Desktop/Разработчик/Знакомство с языками программирования (семинары)/Урок 1. Знакомство с языком программирования С#/lessonC#/kvadrat2/obj/Debug/net6.0/kvadrat2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anton/Desktop/Разработчик/Знакомство с языками программирования (семинары)/Урок 1. Знакомство с языком программирования С#/lessonC#/kvadrat2/obj/Debug/net6.0/kvadrat2.AssemblyInfoInputs.cache
+/Users/anton/Desktop/Разработчик/Знакомство с языками программирования (семинары)/Урок 1. Знакомство с языком программирования С#/lessonC#/kvadrat2/obj/Debug/net6.0/kvadrat2.AssemblyInfo.cs
+/Users/anton/Desktop/Разработчик/Знакомство с языками программирования (семинары)/Урок 1. Знакомство с языком программирования С#/lessonC#/kvadrat2/obj/Debug/net6.0/kvadrat2.csproj.CoreCompileInputs.cache
+/Users/anton/Desktop/Разработчик/Знакомство с языками программирования (семинары)/Урок 1. Знакомство с языком программирования С#/lessonC#/kvadrat2/obj/Debug/net6.0/kvadrat2.dll
+/Users/anton/Desktop/Разработчик/Знакомство с языками программирования (семинары)/Урок 1. Знакомство с языком программирования С#/lessonC#/kvadrat2/obj/Debug/net6.0/refint/kvadrat2.dll
+/Users/anton/Desktop/Разработчик/Знакомство с языками программирования (семинары)/Урок 1. Знакомство с языком программирования С#/lessonC#/kvadrat2/obj/Debug/net6.0/kvadrat2.pdb
+/Users/anton/Desktop/Разработчик/Знакомство с языками программирования (семинары)/Урок 1. Знакомство с языком программирования С#/lessonC#/kvadrat2/obj/Debug/net6.0/kvadrat2.genruntimeconfig.cache
+/Users/anton/Desktop/Разработчик/Знакомство с языками программирования (семинары)/Урок 1. Знакомство с языком программирования С#/lessonC#/kvadrat2/obj/Debug/net6.0/ref/kvadrat2.dll
