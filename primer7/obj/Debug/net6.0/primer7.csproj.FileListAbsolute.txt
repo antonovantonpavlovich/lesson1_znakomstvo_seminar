@@ -1,0 +1,15 @@
+/Users/anton/Desktop/Разработчик/Знакомство с языками программирования (семинары)/Урок 1. Знакомство с языком программирования С#/lessonC#/primer7/bin/Debug/net6.0/primer7
+/Users/anton/Desktop/Разработчик/Знакомство с языками программирования (семинары)/Урок 1. Знакомство с языком программирования С#/lessonC#/primer7/bin/Debug/net6.0/primer7.deps.json
+/Users/anton/Desktop/Разработчик/Знакомство с языками программирования (семинары)/Урок 1. Знакомство с языком программирования С#/lessonC#/primer7/bin/Debug/net6.0/primer7.runtimeconfig.json
+/Users/anton/Desktop/Разработчик/Знакомство с языками программирования (семинары)/Урок 1. Знакомство с языком программирования С#/lessonC#/primer7/bin/Debug/net6.0/primer7.dll
+/Users/anton/Desktop/Разработчик/Знакомство с языками программирования (семинары)/Урок 1. Знакомство с языком программирования С#/lessonC#/primer7/bin/Debug/net6.0/primer7.pdb
+/Users/anton/Desktop/Разработчик/Знакомство с языками программирования (семинары)/Урок 1. Знакомство с языком программирования С#/lessonC#/primer7/obj/Debug/net6.0/primer7.csproj.AssemblyReference.cache
+/Users/anton/Desktop/Разработчик/Знакомство с языками программирования (семинары)/Урок 1. Знакомство с языком программирования С#/lessonC#/primer7/obj/Debug/net6.0/primer7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anton/Desktop/Разработчик/Знакомство с языками программирования (семинары)/Урок 1. Знакомство с языком программирования С#/lessonC#/primer7/obj/Debug/net6.0/primer7.AssemblyInfoInputs.cache
+/Users/anton/Desktop/Разработчик/Знакомство с языками программирования (семинары)/Урок 1. Знакомство с языком программирования С#/lessonC#/primer7/obj/Debug/net6.0/primer7.AssemblyInfo.cs
+/Users/anton/Desktop/Разработчик/Знакомство с языками программирования (семинары)/Урок 1. Знакомство с языком программирования С#/lessonC#/primer7/obj/Debug/net6.0/primer7.csproj.CoreCompileInputs.cache
+/Users/anton/Desktop/Разработчик/Знакомство с языками программирования (семинары)/Урок 1. Знакомство с языком программирования С#/lessonC#/primer7/obj/Debug/net6.0/primer7.dll
+/Users/anton/Desktop/Разработчик/Знакомство с языками программирования (семинары)/Урок 1. Знакомство с языком программирования С#/lessonC#/primer7/obj/Debug/net6.0/refint/primer7.dll
+/Users/anton/Desktop/Разработчик/Знакомство с языками программирования (семинары)/Урок 1. Знакомство с языком программирования С#/lessonC#/primer7/obj/Debug/net6.0/primer7.pdb
+/Users/anton/Desktop/Разработчик/Знакомство с языками программирования (семинары)/Урок 1. Знакомство с языком программирования С#/lessonC#/primer7/obj/Debug/net6.0/primer7.genruntimeconfig.cache
+/Users/anton/Desktop/Разработчик/Знакомство с языками программирования (семинары)/Урок 1. Знакомство с языком программирования С#/lessonC#/primer7/obj/Debug/net6.0/ref/primer7.dll
